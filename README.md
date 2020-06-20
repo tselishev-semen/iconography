@@ -1,7 +1,7 @@
 # Iconography for React
 [![Netlify Status](https://api.netlify.com/api/v1/badges/48b9cea3-5b55-4eab-b4c6-d6464ef5e86d/deploy-status)](https://app.netlify.com/sites/iconography-for-react/deploys)
 
-Simple,lightweight and scallable implementation to work with SVG icons in React
+Simple,lightweight and scalable implementation to work with SVG icons in React
       
 * ability to change color
 * ability to change the size of the icons
