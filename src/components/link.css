@@ -1,0 +1,14 @@
+.link {
+    color: cornflowerblue;
+    text-decoration: none;
+    display: inline-block;
+}
+.link__content{
+    display: flex;
+    align-items: center;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: blue;
+}

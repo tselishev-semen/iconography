@@ -1,0 +1,4 @@
+.icon {
+    /* an icon has the same color as the parent element */
+    fill: currentColor;
+}

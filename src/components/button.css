@@ -1,0 +1,16 @@
+.button {
+    padding: 10px 10px;
+    color: darkgrey;
+    background: white;
+    border: 1px solid gainsboro;
+}
+.button__content{
+    display: flex;
+    align-items: center;
+}
+.button__icon-wrapper{
+    padding-right: 5px;
+}
+.button:hover {
+    color: cornflowerblue;
+}
